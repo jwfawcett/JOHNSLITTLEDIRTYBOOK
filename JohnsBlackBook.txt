@@ -3,7 +3,7 @@
 #My goal is to organize and create powershell script
 
 # Find wifi info including wifi cleartext passwords and cipher information (can only be used as admin)
-#NETSH WLAN SHOW PROFILE WIFI KEY=CLEAR
+#NETSH WLAN SHOW PROFILE <WIFI> KEY=CLEAR
 
 #Find Hotfixes 
 #wmic qfe
