@@ -1,0 +1,45 @@
+#John's Little Black Book
+#A list of commands for some Windows Recon
+#My goal is to organize and create powershell script
+
+# Find wifi info including wifi cleartext passwords and cipher information (can only be used as admin)
+#NETSH WLAN SHOW PROFILE WIFI KEY=CLEAR
+
+#Find Hotfixes 
+#wmic qfe
+
+#show all aystem hardware information
+#systeminfo
+
+#show arp table 
+#netstat -r
+
+#show listening ports 
+#netstat -a 
+
+#show properties of a web request (alias wget curl)
+#Invoke-WebRequest -Uri <https://website.com>
+
+#Get DNS Cache
+#Get-DnsClientCache
+
+#possible stored names and passwords
+#rundll32.exe keymgr.dll, KRShowKeyMgr
+
+#Get output of DNS info for website
+#nslookup <website.com>| Out-Gridview
+
+#Get output file of users on domain
+#Net User | OUT-Gridview
+
+#Always check robots.txt file for possible juicy directories on website!!!
+#https://targetsite.com/robots.txt
+
+
+
+
+
+
+
+
+
