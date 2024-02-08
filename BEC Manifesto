@@ -1,0 +1,58 @@
+BEC Manifesto
+
+A good BEC email lies in trust, and maybe one email is not enough. I would like to go through first contact to my final "hook" of a BEC idea I had to act as the targets I.T. person to gain their MFA info. I found the password in a past breach. For the first contact we will make the user feel like we are giving them something by telling them we are optimizing software that should make their computer faster. The email should go something like this:
+
+
+
+
+
+To: <your target>
+From: <Spoofed I.T. Guy or your pretext>
+
+Subject: Your New Software Update
+
+Body: Hello <target>,
+
+My name is <pretext> and we noticed that our current Microsoft instance has been running slow. I have updated your machine and this should greatly improve performance. I will check with you
+in a couple of hours to verify this change. Thank you, 
+
+
+
+
+This also gives you the opportunity for another communication and build rapport. This is where enumerating your target is key. Learn common activities of your target. Learn common things about their
+IT department and it's communications. Especially if you are petexting a new I.T. guy you may need a few more emails to build trust. This is a marathon, not a sprint.
+
+The second email can look something like this:
+
+
+
+To: <your target>
+From: <Spoofed I.T. Guy or your pretext>
+
+Subject: Software Update Follow Up
+
+Body: Hey <target>,
+Just checking in to see if our new update helped your machine? Let me know how it is working.  Thank you,
+
+
+
+This gives a user a good feeling. You are trying to do something nice (a faster machine) and also standing by your work. Even though you did nothing it will hopefully give the placebo effect and the 
+user feels good. If that does not happen the email can still go something like this:
+
+
+
+
+To: <your target>
+From: <Spoofed I.T. Guy or your pretext>
+
+Subject: New Software Update
+
+Body: Hello <target>,
+I am sorry to hear that. Hopefully it will just take a little more time. By the way, I wanted check how it is going on my end. I already have your password but unfortunately I still cannot access 
+without your Multi Factor code. Would you be able to give me a call at <phone number>. Thank you for all your patience in this,
+
+
+Letting the user know you already have the password and will not ask for it makes the user even more comfortable. Do as much research you can on the target organization and its users. The more you can
+make the user feel you are a part of the group the easier the process will be. Happy Hacking!!
+
+
